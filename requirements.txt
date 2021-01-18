@@ -1,0 +1,4 @@
+## The following requirements were added by pip freeze:
+keyboard==0.13.5
+mido==1.2.9
+pyserial==3.5
